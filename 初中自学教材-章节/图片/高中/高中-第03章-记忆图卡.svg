@@ -1,0 +1,16 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' width='960' height='540' viewBox='0 0 960 540'>
+  <defs>
+    <linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#f8fafc'/>
+      <stop offset='100%' stop-color='#eef2ff'/>
+    </linearGradient>
+  </defs>
+  <rect width='100%' height='100%' fill='url(#bg)'/>
+  <rect x='48' y='44' width='864' height='78' rx='14' fill='#3b82f6'/>
+  <text x='80' y='94' font-family='Microsoft YaHei, Segoe UI, sans-serif' font-size='34' fill='#ffffff'>高中第3章 函数概念与性质</text>
+  <rect x='48' y='146' width='864' height='346' rx='14' fill='#ffffff' stroke='#dbeafe' stroke-width='2'/>
+  <text x='88' y='232' font-family='Microsoft YaHei, Segoe UI, sans-serif' font-size='32' fill='#0f172a'>1. 先定定义域</text>
+  <text x='88' y='312' font-family='Microsoft YaHei, Segoe UI, sans-serif' font-size='32' fill='#0f172a'>2. 再判单调奇偶</text>
+  <text x='88' y='392' font-family='Microsoft YaHei, Segoe UI, sans-serif' font-size='32' fill='#0f172a'>3. 图像辅助判断</text>
+  <text x='88' y='468' font-family='Microsoft YaHei, Segoe UI, sans-serif' font-size='22' fill='#64748b'>自学记忆卡：先背结构，再做题验证</text>
+</svg>

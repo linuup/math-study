@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <line x1="80" y1="280" x2="900" y2="280" stroke="#111" stroke-width="3"/>
+  <polygon points="900,280 885,272 885,288" fill="#111"/>
+  <circle cx="250" cy="280" r="5" fill="#2563eb"/><text x="238" y="315" font-size="22" font-family="Microsoft YaHei">-3</text>
+  <circle cx="460" cy="280" r="5" fill="#111"/><text x="454" y="315" font-size="22" font-family="Microsoft YaHei">0</text>
+  <circle cx="670" cy="280" r="5" fill="#dc2626"/><text x="663" y="315" font-size="22" font-family="Microsoft YaHei">3</text>
+  <line x1="460" y1="170" x2="250" y2="170" stroke="#2563eb" stroke-width="3"/>
+  <line x1="460" y1="170" x2="670" y2="170" stroke="#dc2626" stroke-width="3"/>
+  <text x="300" y="155" font-size="22" fill="#2563eb" font-family="Microsoft YaHei">到原点距离3</text>
+  <text x="590" y="155" font-size="22" fill="#dc2626" font-family="Microsoft YaHei">到原点距离3</text>
+  <text x="90" y="75" font-size="32" font-family="Microsoft YaHei" fill="#111">数轴：原点 + 正方向 + 单位长度</text>
+  <text x="90" y="115" font-size="26" font-family="Microsoft YaHei" fill="#334155">相反数：-3 与 3；绝对值：|-3| = |3| = 3</text>
+</svg>

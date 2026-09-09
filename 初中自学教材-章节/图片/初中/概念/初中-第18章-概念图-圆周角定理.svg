@@ -1,0 +1,11 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' width='960' height='540' viewBox='0 0 960 540'>
+<rect width='100%' height='100%' fill='#fff'/>
+<circle cx='350' cy='280' r='180' fill='none' stroke='#0ea5e9' stroke-width='4'/>
+<circle cx='350' cy='280' r='5' fill='#0ea5e9'/>
+<line x1='350' y1='280' x2='506' y2='187' stroke='#0284c7' stroke-width='3'/>
+<line x1='350' y1='280' x2='480' y2='405' stroke='#0284c7' stroke-width='3'/>
+<line x1='506' y1='187' x2='480' y2='405' stroke='#dc2626' stroke-width='3'/>
+<text x='300' y='265' font-size='22' font-family='Microsoft YaHei'>O</text>
+<text x='540' y='250' font-size='24' font-family='Microsoft YaHei' fill='#111827'>同弧AB：圆周角 = 1/2 圆心角</text>
+<text x='540' y='290' font-size='24' font-family='Microsoft YaHei' fill='#111827'>同弧所对圆周角相等</text>
+</svg>

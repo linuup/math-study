@@ -1,0 +1,10 @@
+﻿<svg xmlns='http://www.w3.org/2000/svg' width='960' height='540' viewBox='0 0 960 540'>
+<rect width='100%' height='100%' fill='#fff'/>
+<line x1='80' y1='470' x2='900' y2='470' stroke='#333' stroke-width='2'/><line x1='120' y1='510' x2='120' y2='50' stroke='#333' stroke-width='2'/>
+<path d='M 260 450 Q 460 130 660 450' stroke='#2563eb' stroke-width='4' fill='none'/>
+<circle cx='460' cy='130' r='6' fill='#2563eb'/>
+<line x1='460' y1='80' x2='460' y2='470' stroke='#94a3b8' stroke-dasharray='8 8' stroke-width='2'/>
+<text x='475' y='140' font-size='22' fill='#2563eb' font-family='Microsoft YaHei'>顶点(h,k)</text>
+<text x='475' y='180' font-size='22' fill='#111827' font-family='Microsoft YaHei'>对称轴 x = h</text>
+<text x='150' y='510' font-size='24' fill='#111827' font-family='Microsoft YaHei'>二次函数：y = a(x-h)^2 + k，a决定开口，(h,k)决定位置</text>
+</svg>
